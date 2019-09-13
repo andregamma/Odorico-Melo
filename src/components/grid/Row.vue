@@ -16,4 +16,10 @@
 
 <style scoped>
 
+  @media screen and (max-width: 600px) {
+    .row {
+      flex-direction: column;
+    }
+  }
+
 </style>

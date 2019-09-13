@@ -75,4 +75,14 @@
     font-weight: 600;
   }
 
+  @media screen and (max-width: 600px) {
+
+    .book-card {
+      height: max-content;
+      width: 96%;
+      margin: 10px auto;
+    }
+
+  }
+
 </style>

@@ -22,7 +22,8 @@
         },
         props: {
           color: {
-            default: 'primary'
+            default: 'primary',
+            required: false
           },
           css: {
             required: false,

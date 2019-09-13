@@ -11,7 +11,7 @@ export default new Router({
     {
       path: '/',
       name: 'Home',
-      component: Home
+      component: Home,
     },
     {
       path: '/biblioteca',
@@ -19,6 +19,14 @@ export default new Router({
       component: Biblioteca,
       meta: {
         title: 'Biblioteca'
+      }
+    },
+    {
+      path: '/entrar',
+      name: 'Entrar',
+      component: Biblioteca,
+      meta: {
+        title: 'Entrar'
       }
     }
   ],

@@ -13,7 +13,7 @@
         <nav-divider />
 
         <nav-item url="#"> Entrar </nav-item>
-        <r-button color="default" > Registrar </r-button>
+        <r-button color="default" icon="person" > Registrar </r-button>
       </nav-bar>
     </header>
 

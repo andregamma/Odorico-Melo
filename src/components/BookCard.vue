@@ -1,3 +1,4 @@
+<!-- Componente para listagem de livros -->
 <template>
   <div class="book-card">
       <div class="card-body">

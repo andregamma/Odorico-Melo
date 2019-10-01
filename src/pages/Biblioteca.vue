@@ -16,6 +16,9 @@
             <nav-item local="side" url="/biblioteca/c/escolar">Escolar</nav-item>
             <nav-item local="side" url="/biblioteca/c/ficcao-cientifica">Ficção Ciêntifica</nav-item>
             <nav-item local="side" url="/biblioteca/c/fantasia">Fantasia</nav-item>
+            <nav-item local="side" url="/biblioteca/c/fantasia">Comédia</nav-item>
+            <nav-item local="side" url="/biblioteca/c/fantasia">Drama</nav-item>
+            <nav-item local="side" url="/biblioteca/c/fantasia">Épico</nav-item>
 
           </side-bar>
         </column>
@@ -50,7 +53,9 @@
                     { id: 3, name: 'Ficção Científica', ref: 'ficcao-cientifica' },
                     { id: 4, name: 'Escolar', ref: 'escolar' },
                     { id: 5, name: 'Biologia', ref: 'biologia' },
-                    { id: 3, name: 'Fantasia', ref: 'fantasia' },
+                    { id: 6, name: 'Fantasia', ref: 'fantasia' },
+                    { id: 7, name: 'Drama', ref: 'drama' },
+                    { id: 8, name: 'Épico', ref: 'epico' },
                 ]
             }
         },

@@ -15,6 +15,7 @@
             <nav-item local="side" url="/biblioteca/c/biologia">Biologia</nav-item>
             <nav-item local="side" url="/biblioteca/c/escolar">Escolar</nav-item>
             <nav-item local="side" url="/biblioteca/c/ficcao-cientifica">Ficção Ciêntifica</nav-item>
+            <nav-item local="side" url="/biblioteca/c/fantasia">Fantasia</nav-item>
 
           </side-bar>
         </column>
@@ -47,6 +48,9 @@
                     { id: 1, name: 'Fisico', ref: 'fisico' },
                     { id: 2, name: 'Digital', ref: 'digital' },
                     { id: 3, name: 'Ficção Científica', ref: 'ficcao-cientifica' },
+                    { id: 4, name: 'Escolar', ref: 'escolar' },
+                    { id: 5, name: 'Biologia', ref: 'biologia' },
+                    { id: 3, name: 'Fantasia', ref: 'fantasia' },
                 ]
             }
         },
